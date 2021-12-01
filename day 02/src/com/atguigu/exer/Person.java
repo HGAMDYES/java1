@@ -5,5 +5,7 @@ package com.atguigu.exer;
  * @create 2021-10-27-21:14
  */
 public class Person {
-
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
